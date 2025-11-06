@@ -30,14 +30,16 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 <!-- 🎯 PROJET EN VEDETTE -->
 <h2 align="center" style="font-family:'Playfair Display',serif;font-weight:bold;color:#F8D90F;">🚀 Ticket Classifier App</h2>
 
+<!-- Image de fond illustrative (personne travaillant sur un ordinateur) -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/technology-background-with-data-flow_53876-116193.jpg?w=1060&t=st=1692454652~exp=1692455252~hmac=bdb3a8ce82f0dbe26dbb45b0a92b1fcb3a8d6c2df278db42564f46cf54b84ef9" width="100%" style="border-radius:10px; opacity:0.85;" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" width="100%" style="border-radius:10px; opacity:0.4;" />
 </p>
 
-<div align="center" style="margin-top:-180px; background:rgba(0,0,0,0.7); padding:40px; border-radius:15px; width:80%; box-shadow:0 0 25px #F8D90F;">
+<div align="center" style="margin-top:-180px; background:rgba(0,0,0,0.8); padding:40px; border-radius:15px; width:80%; box-shadow:0 0 25px #F8D90F;">
   <h3 style="font-family:'Playfair Display',serif; color:#F8D90F;">🎯 Objectif du projet</h3>
   <p style="color:#fff; font-size:16px; line-height:1.6;">
-  <b>Ticket Classifier App</b> est une application d’intelligence artificielle permettant de <b>classer automatiquement les tickets IT</b> selon leur type (accès, matériel, RH, réseau, etc.) afin d’<b>accélérer le support technique</b> et de <b>réduire les délais d’intervention</b>.
+  <b>Ticket Classifier App</b> est une application d’intelligence artificielle qui <b>automatise le tri des tickets IT</b> selon leur nature (accès, matériel, RH, réseau...).  
+  L’objectif : <b>accélérer le support technique</b> et <b>optimiser la priorisation des demandes</b>.
   </p>
 
   <h3 style="font-family:'Playfair Display',serif; color:#F8D90F;">⚙️ Stack Technique</h3>
@@ -124,7 +126,6 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
   <img src="https://img.shields.io/badge/Computer%20Vision-3F51B5?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Clustering-00BCD4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Regression-2196F3?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PCA-673AB7?style=for-the-badge" />
 </p>
 
 ### 💻 Outils et Langages
@@ -133,8 +134,6 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -144,7 +143,6 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
   <img src="https://img.shields.io/badge/Adaptabilité-FF9800?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Curiosité-9C27B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Esprit%20d’équipe-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Autonomie-607D8B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Créativité-E91E63?style=for-the-badge" />
 </p>
 
@@ -176,5 +174,4 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F8D90F&height=120&section=footer"/>
 </p>
-
 
