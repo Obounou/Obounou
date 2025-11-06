@@ -1,46 +1,56 @@
-<h1 align="center">👋 Salut, je suis <span style="color:#f8d90f;">Elvis OBOUNOU ZOLO
-<h3 align="center">💡 Data Scientist & Analyst | Passionné par l’IA, la Data et l’innovation</h3>
-
----
-
-### 🚀 À propos de moi
-- 🎓 Étudiant à **Aivancity**, Grande École de l’IA et de la Data reconnue par l’État 🇫🇷  
-- 🤖 J’aime concevoir des modèles de **Machine Learning** et d’**IA prédictive**  
-- 📊 Je réalise des **analyses de données** et des **dashboards** Power BI / Streamlit  
-- 🌱 J’explore actuellement le **NLP**, les **RAGs** et l’**IA générative**  
-- 🎯 Objectif : transformer les données en **valeur, impact et compréhension**
-
----
-
-### 🛠️ Technologies & Outils
+<h1 align="center">🎯 Ticket Classifier App</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,html,css,js,git,github,vscode,postgresql,pandas,numpy,matplotlib,powerbi" />
+  <i>Application de classification automatique de tickets d’assistance IT basée sur le Machine Learning.</i>
 </p>
 
 ---
 
-### 📈 Mes statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Obounou&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obounou&layout=compact&theme=tokyonight" height="150"/>
-</p>
+### 🧠 Objectif
+Automatiser le tri des tickets IT pour aider les équipes support à **gagner du temps** et **prioriser leurs actions**.
 
 ---
 
-### 🌍 Connecte-toi avec moi
-<p align="center">
-  <a href="https://www.linkedin.com/in/elvis-zolo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Elvis%20OBOUNOU%20ZOLO-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:elvis.obounou@aivancity.education">
-    <img src="https://img.shields.io/badge/Email-elvis.obounou@aivancity.education-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+### ⚙️ Tech Stack
+| Domaine | Technologies |
+|----------|---------------|
+| 💻 Langage | Python |
+| 🧩 Modèle | Régression Logistique (TF-IDF, scikit-learn) |
+| 🖥️ Interface | Streamlit |
+| 📚 Librairies | pandas, numpy, joblib, re, string |
+| ☁️ Déploiement | Streamlit Cloud |
 
 ---
 
-### ✨ Citation qui m’inspire
-> *"L’intelligence artificielle n’est pas une fin, c’est un moyen de mieux comprendre le monde et de le transformer positivement."*
+### 📊 Résultats
+- **Accuracy** : 85.3 %  
+- Excellents scores sur les catégories *Purchase*, *Hardware* et *Access*  
+- **Dataset** : [IT Support Ticket Classification (Kaggle)](https://www.kaggle.com/datasets) – 47 837 tickets  
+- Exemple :  
+  > “Unable to connect to printer after update”  
+  → **Catégorie prédite :** Hardware (Confiance : 85.6 %)
+
+---
+
+### 🖥️ Démo
+🚀 [**Lancer l’application Streamlit**](https://streamlit.io/)  
+
+*(ouvre la démo dans un nouvel onglet)*
+
+---
+
+### 👤 Auteur
+**Elvis Obounou Zolo**  
+🎓 Étudiant à Aivancity Paris-Cachan – Grande École de l’IA et de la Data reconnue par l’État.  
+💡 Passionné par la Data Science, le Machine Learning et l’automatisation de la donnée.  
+
+📧 [bitamvillage@gmail.com](mailto:bitamvillage@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/elvis-obounou)  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Obounou&repo=ticket-classifier&theme=tokyonight" />
+</p>
 
 ---
 
