@@ -28,95 +28,50 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 ---
 
 <!-- 🎯 PROJET EN VEDETTE -->
-<h2 align="center" style="font-family:'Playfair Display',serif;font-weight:bold;color:#F8D90F;">🚀 Ticket Classifier App</h2>
+<h2 align="center" style="font-family:'Playfair Display',serif;font-weight:bold;color:#F8D90F;">🎯 Ticket Classifier App</h2>
 
-<!-- Image de fond illustrative (personne travaillant sur un ordinateur) -->
+<p align="center"><i>Une application IA qui automatise le tri et la priorisation des tickets d’assistance IT pour réduire le temps de traitement des équipes support.</i></p>
+
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" width="100%" style="border-radius:10px; opacity:0.4;" />
+  <img src="https://github.com/Obounou/Ticket-Classifier-App/blob/main/preview.gif" width="720px" style="border-radius: 12px; box-shadow: 0px 0px 10px #F8D90F;"/>
 </p>
 
-<div align="center" style="margin-top:-180px; background:rgba(0,0,0,0.8); padding:40px; border-radius:15px; width:80%; box-shadow:0 0 25px #F8D90F;">
-  <h3 style="font-family:'Playfair Display',serif; color:#F8D90F;">🎯 Objectif du projet</h3>
-  <p style="color:#fff; font-size:16px; line-height:1.6;">
-  <b>Ticket Classifier App</b> est une application d’intelligence artificielle qui <b>automatise le tri des tickets IT</b> selon leur nature (accès, matériel, RH, réseau...).  
-  L’objectif : <b>accélérer le support technique</b> et <b>optimiser la priorisation des demandes</b>.
-  </p>
+<p align="center" style="font-size:16px;">
+  <b>🎯 Objectif :</b> Classer automatiquement chaque demande IT selon sa nature (accès, matériel, RH, etc.) grâce à un modèle d’apprentissage supervisé.<br>
+  <b>🧠 Stack :</b> Python · Streamlit · scikit-learn · Pandas · NumPy<br>
+  <b>📈 Résultats :</b> 85.3 % de précision sur un dataset Kaggle (47 837 tickets)<br><br>
+</p>
 
-  <h3 style="font-family:'Playfair Display',serif; color:#F8D90F;">⚙️ Stack Technique</h3>
-  <p style="color:#fff;">
-  Python · Streamlit · scikit-learn · Pandas · NumPy · TF-IDF
-  </p>
-
-  <h3 style="font-family:'Playfair Display',serif; color:#F8D90F;">📈 Résultats</h3>
-  <p style="color:#fff;">Précision globale : <b>85.3%</b> sur le dataset Kaggle (<i>47 837 tickets</i>).</p>
-
+<p align="center">
   <a href="https://streamlit.io" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/▶️%20Lancer%20la%20Démo%20Streamlit-F8D90F?style=for-the-badge&logo=streamlit&logoColor=black&labelColor=F8D90F&color=000000" alt="Lancer la démo" />
+    <img src="https://img.shields.io/badge/🚀%20Lancer%20la%20démo%20Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=F8D90F&labelColor=1C1C1C&color=F8D90F" alt="Lancer la démo" />
   </a>
+</p>
+
+---
+
+<!-- 💼 AUTRES PROJETS -->
+<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">💼 Autres Projets Data Science</h2>
+
+<div align="center">
+
+| 🧩 Projet | 📝 Description | ⚙️ Stack |
+|:--|:--|:--|
+| 🧠 **analyse_des_sentiments** | Analyse des émotions dans les avis Amazon (NLP) | Python · NLTK · scikit-learn |
+| 🏠 **prédiction-du-prix-des-maisons** | Modélisation des prix immobiliers (régression multiple) | Python · Pandas · Matplotlib |
+| 📊 **Analyse-du-marché-du-logement** | Segmentation du marché par K-Means et PCA | Jupyter · Seaborn · PCA |
+| 🔒 **data-anonymization-step3-elvis** | Analyse de risque de ré-identification (anonymisation) | R · sdcMicro |
+| 🤖 **ticket-classifier-app** | IA de tri automatique des tickets IT (TF-IDF + Régression Logistique) | Python · Streamlit |
+| 🧬 **Medical Image Classifier** | Détection de pathologies pulmonaires par CNN | TensorFlow · Keras |
+
 </div>
 
 ---
 
-<!-- 💼 PROJETS -->
-<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">💼 Mes Projets Data Science</h2>
-
-<table align="center" style="width:100%; border-collapse:collapse; border:1px solid #333;">
-  <tr style="background-color:#111; color:#F8D90F; text-align:center; font-weight:bold;">
-    <td style="padding:10px; border:1px solid #333;">📂 Projet</td>
-    <td style="padding:10px; border:1px solid #333;">🎯 Objectif / Description</td>
-    <td style="padding:10px; border:1px solid #333;">⚙️ Technologies</td>
-  </tr>
-
-  <tr style="background-color:#1A1A1A; color:#FFF;">
-    <td style="padding:12px; border:1px solid #333;"><b>Analyse des Sentiments</b></td>
-    <td style="padding:12px; border:1px solid #333;">
-      Analyse NLP des avis clients Amazon pour détecter les émotions et le ton global.  
-      <i>Objectif :</i> Comprendre la satisfaction utilisateur.
-    </td>
-    <td style="padding:12px; border:1px solid #333;">Python · NLTK · scikit-learn</td>
-  </tr>
-
-  <tr style="background-color:#111; color:#FFF;">
-    <td style="padding:12px; border:1px solid #333;"><b>Prédiction du Prix des Maisons</b></td>
-    <td style="padding:12px; border:1px solid #333;">
-      Modélisation prédictive des prix immobiliers selon des variables socio-économiques.  
-      <i>Objectif :</i> Aider à l’évaluation des biens.
-    </td>
-    <td style="padding:12px; border:1px solid #333;">Python · Pandas · Matplotlib</td>
-  </tr>
-
-  <tr style="background-color:#1A1A1A; color:#FFF;">
-    <td style="padding:12px; border:1px solid #333;"><b>Analyse du Marché du Logement</b></td>
-    <td style="padding:12px; border:1px solid #333;">
-      Segmentation du marché immobilier par K-Means et PCA.  
-      <i>Objectif :</i> Identifier les clusters régionaux.
-    </td>
-    <td style="padding:12px; border:1px solid #333;">Python · Seaborn · PCA · Jupyter</td>
-  </tr>
-
-  <tr style="background-color:#111; color:#FFF;">
-    <td style="padding:12px; border:1px solid #333;"><b>Data Anonymization</b></td>
-    <td style="padding:12px; border:1px solid #333;">
-      Évaluation du risque de ré-identification et anonymisation RGPD.  
-      <i>Objectif :</i> Sécuriser la donnée sensible.
-    </td>
-    <td style="padding:12px; border:1px solid #333;">R · sdcMicro</td>
-  </tr>
-
-  <tr style="background-color:#1A1A1A; color:#FFF;">
-    <td style="padding:12px; border:1px solid #333;"><b>Medical Image Classifier</b></td>
-    <td style="padding:12px; border:1px solid #333;">
-      Classification automatique de radiographies pulmonaires.  
-      <i>Objectif :</i> Soutenir le diagnostic médical.
-    </td>
-    <td style="padding:12px; border:1px solid #333;">TensorFlow · Keras · CNN</td>
-  </tr>
-</table>
+<!-- ⚙️ COMPÉTENCES TECHNIQUES -->
+<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">🧠 Compétences Techniques</h2>
 
 ---
-
-<!-- ⚙️ COMPÉTENCES -->
-<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">🧠 Compétences Techniques</h2>
 
 ### 🎯 Data Science & IA
 <p align="center">
@@ -126,16 +81,36 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
   <img src="https://img.shields.io/badge/Computer%20Vision-3F51B5?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Clustering-00BCD4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Regression-2196F3?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Classification-8BC34A?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCA-673AB7?style=for-the-badge" />
 </p>
+
+---
 
 ### 💻 Outils et Langages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge" />
+</p>
+
+---
 
 ### 🌟 Soft Skills
 <p align="center">
@@ -143,13 +118,16 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
   <img src="https://img.shields.io/badge/Adaptabilité-FF9800?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Curiosité-9C27B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Esprit%20d’équipe-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autonomie-607D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Créativité-E91E63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Persévérance-795548?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- 🌈 STATISTIQUES -->
-<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">📊 Mon activité GitHub</h2>
+<!-- 🌈 GRAPHIQUE D’ACTIVITÉ -->
+<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">📈 Mon activité GitHub</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Obounou&theme=react-dark&bg_color=000000&color=F8D90F&line=F8D90F&point=ffffff&area=true&hide_border=true" width="90%"/>
 </p>
@@ -174,4 +152,5 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F8D90F&height=120&section=footer"/>
 </p>
+
 
