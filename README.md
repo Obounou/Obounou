@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis <span style="color:#f8d90f;">Elvis OBOUNOU ZOLO<
+<h1 align="center">👋 Salut, je suis <span style="color:#f8d90f;">Elvis OBOUNOU ZOLO
 <h3 align="center">💡 Data Scientist & Analyst | Passionné par l’IA, la Data et l’innovation</h3>
 
 ---
