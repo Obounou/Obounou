@@ -17,8 +17,8 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 
 <!-- 🔗 BOUTONS INTERACTIFS -->
 <p align="center">
-  <a href="https://linkedin.com/in/elvis-obounou" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Elvis%20Obounou-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/elvis-zolo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Elvis%20Zolo-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bitamvillage@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -123,7 +123,7 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 <h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">📬 Me Contacter</h2>
 <p align="center">
   📧 <a href="mailto:bitamvillage@gmail.com">bitamvillage@gmail.com</a><br>
-  💼 <a href="https://linkedin.com/in/elvis-obounou" target="_blank">LinkedIn</a>
+  💼 <a href="https://www.linkedin.com/in/elvis-zolo/" target="_blank">LinkedIn</a>
 </p>
 
 ---
