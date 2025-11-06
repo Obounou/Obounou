@@ -28,7 +28,7 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 ---
 
 <!-- 🎯 PROJET EN VEDETTE -->
-<div align="center" style="background:linear-gradient(135deg,#0A1F44,#031027); padding:40px; border-radius:15px; box-shadow:0 0 20px rgba(248,217,15,0.4); width:85%; margin:auto;">
+<div align="center" style="background:#0A1F44; padding:40px; border-radius:15px; box-shadow:0 0 20px rgba(248,217,15,0.4); width:85%; margin:auto;">
 
 <h2 align="center" style="font-family:'Playfair Display',serif;font-weight:bold;color:#F8D90F;">🎯 Ticket Classifier App</h2>
 
@@ -49,24 +49,6 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
     <img src="https://img.shields.io/badge/🚀%20Lancer%20la%20démo%20Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=F8D90F&labelColor=1C1C1C&color=F8D90F" alt="Lancer la démo" />
   </a>
 </p>
-</div>
-
----
-
-<!-- 💼 AUTRES PROJETS -->
-<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">💼 Autres Projets Data Science</h2>
-
-<div align="center">
-
-| 🧩 Projet | 📝 Description | ⚙️ Stack |
-|:--|:--|:--|
-| 🧠 **analyse_des_sentiments** | Analyse des émotions dans les avis Amazon (NLP) | Python · NLTK · scikit-learn |
-| 🏠 **prédiction-du-prix-des-maisons** | Modélisation des prix immobiliers (régression multiple) | Python · Pandas · Matplotlib |
-| 📊 **Analyse-du-marché-du-logement** | Segmentation du marché par K-Means et PCA | Jupyter · Seaborn · PCA |
-| 🔒 **data-anonymization-step3-elvis** | Analyse de risque de ré-identification (anonymisation) | R · sdcMicro |
-| 🤖 **ticket-classifier-app** | IA de tri automatique des tickets IT (TF-IDF + Régression Logistique) | Python · Streamlit |
-| 🧬 **Medical Image Classifier** | Détection de pathologies pulmonaires par CNN | TensorFlow · Keras |
-
 </div>
 
 ---
@@ -155,4 +137,3 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F8D90F&height=120&section=footer"/>
 </p>
-
