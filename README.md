@@ -46,15 +46,6 @@ Full study on housing trends and price evolution in France.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Obounou&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obounou&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elvis%20Obounou%20Zolo-blue?logo=linkedin)](https://www.linkedin.com/in/elvis-zolo/)
