@@ -155,3 +155,4 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F8D90F&height=120&section=footer"/>
 </p>
+
