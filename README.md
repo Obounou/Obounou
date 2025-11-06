@@ -28,6 +28,8 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 ---
 
 <!-- 🎯 PROJET EN VEDETTE -->
+<div align="center" style="background:linear-gradient(135deg,#0A1F44,#031027); padding:40px; border-radius:15px; box-shadow:0 0 20px rgba(248,217,15,0.4); width:85%; margin:auto;">
+
 <h2 align="center" style="font-family:'Playfair Display',serif;font-weight:bold;color:#F8D90F;">🎯 Ticket Classifier App</h2>
 
 <p align="center"><i>Une application IA qui automatise le tri et la priorisation des tickets d’assistance IT pour réduire le temps de traitement des équipes support.</i></p>
@@ -36,7 +38,7 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
   <img src="https://github.com/Obounou/Ticket-Classifier-App/blob/main/preview.gif" width="720px" style="border-radius: 12px; box-shadow: 0px 0px 10px #F8D90F;"/>
 </p>
 
-<p align="center" style="font-size:16px;">
+<p align="center" style="font-size:16px; color:white;">
   <b>🎯 Objectif :</b> Classer automatiquement chaque demande IT selon sa nature (accès, matériel, RH, etc.) grâce à un modèle d’apprentissage supervisé.<br>
   <b>🧠 Stack :</b> Python · Streamlit · scikit-learn · Pandas · NumPy<br>
   <b>📈 Résultats :</b> 85.3 % de précision sur un dataset Kaggle (47 837 tickets)<br><br>
@@ -47,6 +49,7 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
     <img src="https://img.shields.io/badge/🚀%20Lancer%20la%20démo%20Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=F8D90F&labelColor=1C1C1C&color=F8D90F" alt="Lancer la démo" />
   </a>
 </p>
+</div>
 
 ---
 
@@ -152,5 +155,3 @@ Je conçois des projets qui transforment la donnée en **décisions concrètes e
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F8D90F&height=120&section=footer"/>
 </p>
-
-
