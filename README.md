@@ -1,158 +1,141 @@
 <!-- 🌌 EN-TÊTE ÉLÉGANT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D90F,100:000000&height=230&section=header&text=𝐄𝐥𝐯𝐢𝐬%20𝐎𝐛𝐨𝐮𝐧𝐨𝐮%20𝐙𝐨𝐥𝐨&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=35&fontAlign=50&font=Playfair%20Display" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D90F,100:000000&height=230&section=header&text=Elvis%20Obounou%20Zolo&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&fontAlign=50&font=Playfair%20Display" />
 </p>
 
 ---
 
 <div align="center">
 
-### 👋 Bienvenue dans mon univers Data & IA  
-🎓 Étudiant à **Aivancity Paris-Cachan**, Grande École de l’Intelligence Artificielle et de la Data reconnue par l’État.  
-💡 Je transforme la donnée en **insights stratégiques et solutions intelligentes**, mêlant rigueur scientifique et design analytique.
+### BIENVENUE DANS MON UNIVERS DATA & IA
+Étudiant à **Aivancity Paris-Cachan**, Grande École de l’Intelligence Artificielle et de la Data reconnue par l’État.  
+Je conçois des projets qui transforment la donnée en **insights concrets et outils intelligents**.  
 
----
-
-<!-- 🔗 BOUTONS INTERACTIFS -->
-<p align="center">
-  <a href="https://linkedin.com/in/elvis-obounou" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Elvis%20Obounou-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bitamvillage@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- 🎯 PROJET EN VEDETTE -->
-<h2 align="center" style="font-family:'Playfair Display',serif;font-weight:bold;color:#F8D90F;">🎯 Ticket Classifier App</h2>
-
-<p align="center"><i>Une application IA qui automatise le tri et la priorisation des tickets d’assistance IT, réduisant jusqu’à 40% du temps de traitement.</i></p>
-
-<p align="center">
-  <img src="https://github.com/Obounou/Ticket-Classifier-App/blob/main/preview.gif" width="720px" style="border-radius: 12px; box-shadow: 0px 0px 10px #F8D90F;"/>
-</p>
-
-<p align="center">
-  <b>🎯 Objectif :</b> Classer automatiquement les tickets selon leur nature (accès, matériel, RH...) via apprentissage supervisé.<br>
-  <b>🧠 Stack :</b> Python · Streamlit · scikit-learn · Pandas · NumPy<br>
-  <b>📈 Résultats :</b> 85.3 % de précision sur un dataset Kaggle (47 837 tickets)<br><br>
-  <a href="https://streamlit.io" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/🚀%20Lancer%20la%20démo%20Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=F8D90F&labelColor=1C1C1C&color=F8D90F" alt="Lancer la démo" />
-  </a>
-</p>
-
----
-
-<!-- 💼 AUTRES PROJETS -->
-<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">💼 Autres Projets Data Science</h2>
-
-<div align="center">
-
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="33%" align="center" style="background-color:#111; border-radius:12px; padding:15px; color:white;">
-      <h3>🧠 Analyse des Sentiments</h3>
-      <p><i>Étude des émotions des utilisateurs à partir d'avis Amazon</i></p>
-      <b>Python · NLP · scikit-learn</b><br>
-      <img src="https://img.shields.io/badge/Type-NLP-blue" />
-    </td>
-    <td width="33%" align="center" style="background-color:#1a1a1a; border-radius:12px; padding:15px; color:white;">
-      <h3>🏠 Prédiction des Prix</h3>
-      <p><i>Modélisation des prix immobiliers via régression multiple</i></p>
-      <b>Python · Pandas · Matplotlib</b><br>
-      <img src="https://img.shields.io/badge/Type-Régression-orange" />
-    </td>
-    <td width="33%" align="center" style="background-color:#111; border-radius:12px; padding:15px; color:white;">
-      <h3>📊 Marché du Logement</h3>
-      <p><i>Segmentation du marché immobilier avec K-Means & PCA</i></p>
-      <b>Jupyter · Seaborn · PCA</b><br>
-      <img src="https://img.shields.io/badge/Type-Clustering-yellow" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" style="background-color:#1a1a1a; border-radius:12px; padding:15px; color:white;">
-      <h3>🔒 Data Anonymization</h3>
-      <p><i>Protection des données personnelles via sdcMicro</i></p>
-      <b>R · sdcMicro</b><br>
-      <img src="https://img.shields.io/badge/Type-Anonymisation-purple" />
-    </td>
-    <td width="33%" align="center" style="background-color:#111; border-radius:12px; padding:15px; color:white;">
-      <h3>🤖 Ticket Classifier</h3>
-      <p><i>Classification IA automatisée des demandes IT</i></p>
-      <b>Python · Streamlit · TF-IDF</b><br>
-      <img src="https://img.shields.io/badge/Type-IA-green" />
-    </td>
-    <td width="33%" align="center" style="background-color:#1a1a1a; border-radius:12px; padding:15px; color:white;">
-      <h3>🧬 Medical Image Classifier</h3>
-      <p><i>Détection de maladies pulmonaires via CNN</i></p>
-      <b>TensorFlow · Keras</b><br>
-      <img src="https://img.shields.io/badge/Type-Deep%20Learning-red" />
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-<!-- ⚙️ COMPÉTENCES TECHNIQUES -->
-<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">🧠 Compétences Techniques</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,streamlit,git,github,vscode,powerbi,mysql,html,css,js" />
-</p>
-
-<div align="center">
-
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" width="25%" style="background-color:#111; padding:20px; border-radius:12px;">
-      <h3 style="color:#F8D90F;">📊 Data Science</h3>
-      <p>Machine Learning<br>Deep Learning<br>NLP<br>Computer Vision</p>
-    </td>
-    <td align="center" width="25%" style="background-color:#1a1a1a; padding:20px; border-radius:12px;">
-      <h3 style="color:#F8D90F;">📈 Analyse</h3>
-      <p>Clustering<br>Régression<br>DataViz<br>Statistiques</p>
-    </td>
-    <td align="center" width="25%" style="background-color:#111; padding:20px; border-radius:12px;">
-      <h3 style="color:#F8D90F;">🧰 Outils</h3>
-      <p>Power BI<br>Streamlit<br>Jupyter<br>GitHub</p>
-    </td>
-    <td align="center" width="25%" style="background-color:#1a1a1a; padding:20px; border-radius:12px;">
-      <h3 style="color:#F8D90F;">💬 Langages</h3>
-      <p>Python<br>SQL<br>R<br>JavaScript</p>
-    </td>
-  </tr>
-</table>
+**Domaines clés :** Machine Learning · Deep Learning · DataViz · NLP · IA éthique  
 
 </div>
 
 ---
 
-<!-- 🌈 ACTIVITÉ GITHUB -->
-<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">📈 Mon activité GitHub</h2>
+<!-- 🔗 LIENS -->
+<p align="center">
+  <a href="https://linkedin.com/in/elvis-obounou" target="_blank">LinkedIn</a> • 
+  <a href="mailto:bitamvillage@gmail.com">Email</a>
+</p>
+
+---
+
+## 🎯 Projet en vedette : Ticket Classifier App
+
+<p align="center">
+  <img src="https://github.com/Obounou/Ticket-Classifier-App/blob/main/preview.gif" width="720px" style="border-radius:12px;box-shadow:0px 0px 10px #F8D90F;">
+</p>
+
+**Objectif :**  
+Développer une application IA capable de **classer automatiquement les tickets IT** selon leur nature (*matériel, accès, RH, réseau, etc.*).  
+Elle permet de réduire le temps de traitement et d’améliorer la priorisation du support technique.
+
+| **Élément** | **Description** |
+|--------------|----------------|
+| **Technologies principales** | Python · Streamlit · scikit-learn · Pandas · NumPy |
+| **Modèle IA** | Régression Logistique avec pondération TF-IDF |
+| **Performance** | 85.3 % de précision sur 47 837 tickets |
+| **Utilité** | Automatisation du tri, gain de temps pour les équipes support |
+| **Statut** | Projet déployé sur Streamlit |
+
+<div align="center" style="margin-top:15px;">
+  <a href="https://streamlit.io" target="_blank" style="text-decoration:none;background-color:#000;border:1px solid #F8D90F;color:#F8D90F;padding:12px 28px;border-radius:6px;font-weight:bold;">
+    🚀 Lancer la démo Streamlit
+  </a>
+</div>
+
+---
+
+## 📁 Autres Projets Data Science
+
+<table align="center" style="width:100%;border-collapse:collapse;">
+  <tr style="background-color:#111111;color:#F8D90F;font-weight:bold;text-align:center;">
+    <td>Nom du projet</td>
+    <td>Description</td>
+    <td>Outils principaux</td>
+  </tr>
+  <tr style="background-color:#1a1a1a;color:#ffffff;">
+    <td>Analyse des sentiments</td>
+    <td>Étude des émotions des clients via NLP sur les avis Amazon.</td>
+    <td>Python · NLTK · scikit-learn</td>
+  </tr>
+  <tr style="background-color:#111111;color:#ffffff;">
+    <td>Prédiction du prix des maisons</td>
+    <td>Régression multiple pour estimer les prix immobiliers.</td>
+    <td>Python · Pandas · Matplotlib</td>
+  </tr>
+  <tr style="background-color:#1a1a1a;color:#ffffff;">
+    <td>Analyse du marché du logement</td>
+    <td>Segmentation de données par K-Means et réduction PCA.</td>
+    <td>Python · Seaborn · Jupyter</td>
+  </tr>
+  <tr style="background-color:#111111;color:#ffffff;">
+    <td>Data Anonymization</td>
+    <td>Protection de données personnelles via sdcMicro.</td>
+    <td>R · sdcMicro</td>
+  </tr>
+  <tr style="background-color:#1a1a1a;color:#ffffff;">
+    <td>Medical Image Classifier</td>
+    <td>Détection de maladies pulmonaires à partir de radiographies.</td>
+    <td>TensorFlow · Keras</td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Compétences Techniques
+
+<table align="center" style="width:100%;border-collapse:collapse;">
+  <tr style="background-color:#111111;color:#F8D90F;font-weight:bold;text-align:center;">
+    <td>Domaine</td>
+    <td>Compétences clés</td>
+  </tr>
+  <tr style="background-color:#1a1a1a;color:#ffffff;">
+    <td>Data Science & IA</td>
+    <td>Machine Learning, Deep Learning, NLP, Computer Vision</td>
+  </tr>
+  <tr style="background-color:#111111;color:#ffffff;">
+    <td>Analyse & Visualisation</td>
+    <td>Statistiques, Clustering, Régression, DataViz, Dashboards</td>
+  </tr>
+  <tr style="background-color:#1a1a1a;color:#ffffff;">
+    <td>Outils & Langages</td>
+    <td>Python, SQL, R, Power BI, Streamlit, Jupyter, GitHub</td>
+  </tr>
+  <tr style="background-color:#111111;color:#ffffff;">
+    <td>Soft Skills</td>
+    <td>Rigueur, adaptabilité, esprit d’équipe, curiosité</td>
+  </tr>
+</table>
+
+---
+
+## 📊 Mon activité GitHub
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Obounou&theme=react-dark&bg_color=000000&color=F8D90F&line=F8D90F&point=ffffff&area=true&hide_border=true" width="90%"/>
 </p>
 
 ---
 
-<!-- 🌍 CONTACT -->
-<h2 align="center" style="font-family:'Playfair Display', serif; color:#F8D90F;">📬 Me Contacter</h2>
+## 📬 Me Contacter
+
 <p align="center">
-  📧 <a href="mailto:bitamvillage@gmail.com">bitamvillage@gmail.com</a><br>
-  💼 <a href="https://linkedin.com/in/elvis-obounou" target="_blank">LinkedIn</a>
+  📧 [bitamvillage@gmail.com](mailto:bitamvillage@gmail.com)  
+  💼 [LinkedIn](https://linkedin.com/in/elvis-obounou)
 </p>
 
 ---
 
-<!-- 🐍 ANIMATION SNAKE -->
 <p align="center">
   <img src="https://github.com/Obounou/Obounou/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<!-- 🌠 PIED DE PAGE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F8D90F&height=120&section=footer"/>
 </p>
