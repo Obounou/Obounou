@@ -40,6 +40,32 @@ Passionné par : Machine Learning • Data Science • Data Visualization • IA
 
 ---
 
+<!-- PROJET PRINCIPAL -->
+<div align="center" style="background:#0A1F44; padding:40px; border-radius:15px; box-shadow:0 0 25px rgba(248,217,15,0.5); width:90%; margin:auto;">
+
+<h2 style="font-family:'Playfair Display',serif; font-size:30px; font-weight:bold; background: linear-gradient(90deg, #F8D90F, #FFD700, #FFB300); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0px 0px 15px rgba(248,217,15,0.6);">
+Application de classification des tickets IT
+</h2>
+
+<p><i>Une application Streamlit qui classe automatiquement les demandes d’assistance selon leur nature, afin de réduire le temps de traitement des équipes support.</i></p>
+
+<img src="https://github.com/Obounou/Ticket-Classifier-App/blob/main/preview.gif" width="720px" style="border-radius: 12px; box-shadow: 0px 0px 15px #F8D90F;"/>
+
+<p align="center">
+  <b>📊 Objectif :</b> Identifier automatiquement la catégorie d’un ticket (accès, matériel, RH, etc.)  
+  <br><b>🧠 Stack :</b> Python · Streamlit · scikit-learn · Pandas · NumPy  
+  <br><b>📈 Résultat :</b> 85.3 % de précision sur un dataset Kaggle (47 837 tickets)
+</p>
+
+<p align="center">
+  <a href="https://ticket-classifier-app-iirq2upuzukxaqdcrjefdw.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Tester%20l'application-F8D90F?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1C1C1C&color=000000" alt="Tester la démo" />
+  </a>
+</p>
+</div>
+
+---
+
 <!-- COMPÉTENCES TECHNIQUES -->
 <h2 align="center" style="font-family:'Playfair Display', serif; font-size:30px; font-weight:bold; background: linear-gradient(90deg, #F8D90F, #FFD700, #FFB300); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0px 0px 15px rgba(248,217,15,0.6);">
 Compétences Techniques
@@ -70,12 +96,40 @@ Compétences Techniques
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge" />
+</p>
+
+---
+
+### Soft Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Rigueur-3F51B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptabilité-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Curiosité-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Esprit%20d’équipe-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autonomie-607D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Créativité-E91E63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Persévérance-795548?style=for-the-badge" />
 </p>
 
 ---
 
 <!-- CONTACT -->
-<h2 align="center">Me Contacter</h2>
+<h2 align="center" style="font-family:'Playfair Display', serif; font-size:30px; font-weight:bold; background: linear-gradient(90deg, #F8D90F, #FFD700, #FFB300); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0px 0px 15px rgba(248,217,15,0.6);">
+Me Contacter
+</h2>
 
 <p align="center">
   📧 <a href="mailto:bitamvillage@gmail.com">bitamvillage@gmail.com</a><br>
@@ -84,7 +138,12 @@ Compétences Techniques
 
 ---
 
-<!-- FOOTER -->
+<!-- ANIMATION SNAKE -->
+<p align="center">
+  <img src="https://github.com/Obounou/Obounou/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<!-- PIED DE PAGE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F8D90F&height=120&section=footer"/>
 </p>
