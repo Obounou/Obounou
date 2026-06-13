@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1F4E79,100:F8D90F&height=230&section=header&text=Elvis%20Obounou%20Zolo&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055A4,50:FFFFFF,100:EF4135&height=230&section=header&text=Elvis%20Obounou%20Zolo&fontColor=0A0A0A&fontSize=46&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h1 align="center">Data Science • Artificial Intelligence • Analytics</h1>
@@ -14,13 +14,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elvis-zolo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Elvis%20Zolo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Elvis%20Zolo-0055A4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:elvis.obounou@aivancity.education">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EF4135?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Obounou" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Obounou-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Obounou-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -29,21 +29,21 @@
 ## Technical Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0055A4?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B73?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-FFB300?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Intelligence-1565C0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0055A4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EF4135?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-003B73?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-EF4135?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM-0055A4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-003B73?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-EF4135?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-EF4135?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-0055A4?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-003B73?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 ---
@@ -351,19 +351,6 @@ Workflow Automation
 
 ---
 
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Obounou&show_icons=true&theme=dark&hide_border=true&title_color=F8D90F&icon_color=F8D90F" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obounou&theme=dark&hide_border=true&ring=F8D90F&fire=F8D90F&currStreakLabel=F8D90F" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obounou&layout=compact&theme=dark&hide_border=true&title_color=F8D90F" height="165"/>
-</p>
-
----
-
 ## Currently Exploring
 
 <p align="center">
@@ -376,19 +363,19 @@ Workflow Automation
 
 <p align="center">
   <a href="mailto:elvis.obounou@aivancity.education">
-    <img src="https://img.shields.io/badge/Email-elvis.obounou@aivancity.education-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-elvis.obounou@aivancity.education-EF4135?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elvis-zolo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/elvis--zolo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/elvis--zolo-0055A4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Obounou" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-github.com/Obounou-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-github.com/Obounou-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -399,5 +386,5 @@ Workflow Automation
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D90F,50:1F4E79,100:0A0A0A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055A4,50:FFFFFF,100:EF4135&height=120&section=footer"/>
 </p>
