@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=900&color=0055A4&center=true&vCenter=true&width=850&lines=Exploring+Data%2C+Creating+Impact;Building+Smart+and+Responsible+AI;Transforming+Ideas+Into+Intelligence;Turning+Data+Into+Decision-Making;Designing+Useful+AI+Solutions;Learning+Something+New+Every+Day" alt="Typing Animation" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/elvis-zolo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Elvis%20Zolo-0055A4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
